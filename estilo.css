@@ -1,0 +1,1101 @@
+
+  
+body {background-color: #a8b1b8;
+}
+
+
+
+        /*Index*/
+
+.banner{height: 400px;
+        margin-left: 143px;
+        margin-top: 20px;}
+
+#Titulo{background-color: rgb(95, 128, 139);
+        height: 520px;
+        width: 1000px;
+        position: absolute;
+        left: 235px;}
+
+#Paginas{background-color: rgb(84, 115, 126);
+    position: absolute;
+    width: 600px;
+    height: 72px;
+    top: 440px;
+    left: 435px;
+    display: flex;
+}
+
+.bannerPr{height: 400px;
+        margin-left: 150px;
+        margin-top: 20px;}
+
+#TituloPr{background-color: rgb(95, 128, 139);
+        height: 520px;
+        width: 1000px;
+        position: absolute;
+        left: 250px;}
+
+#PaginasPr{background-color: rgb(84, 115, 126);
+        position: absolute;
+        width: 600px;
+        height: 72px;
+        top: 440px;
+        left: 450px;
+        display: flex;}
+
+#PaginasAl{background-color: rgb(84, 115, 126);
+        position: absolute;
+        width: 600px;
+        height: 72px;
+        top: 455px;
+        left: 435px;
+        display: flex;}
+
+#Animacion:hover{font-size:25px;
+        text-shadow: 8px 8px 8px #111114;}
+
+a{text-decoration: none;}
+
+
+h1{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+
+h2{color: #adc0ca;
+        margin-left: 18px;
+        margin-right: 20px;
+        text-shadow: 4px 4px 4px #35353a;}
+
+                        
+#Texto{background-color:  #a8b1b8;
+        position: absolute;
+        width: 800px;
+        height: 280px;
+        top: 540px;
+        left: 350px;}
+
+.Biografia{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+.Exito{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+.Firma{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+.Nombre{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+.Separacion{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+.Regreso{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+#Cancion{position: absolute;
+        left: 120px;}
+
+#Cancion2{position: relative;
+                left: 120px;}
+
+p{color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    margin: 15px;
+    line-height: 20px;
+}
+
+#Cancion{position: relative;}
+
+.Veneno{text-decoration: underline;
+        color: brown;}
+
+        /*Integrantes*/
+
+#BoxChano{background-color: rgb(191, 145, 28);
+        width: 580px;
+        height:600px;
+        position:absolute;
+        top:630px;
+        left: 120px;}
+
+
+.chano{height: 180px;
+        position:relative;
+        margin-left: 20px;
+        margin-top: 20px;}
+
+.tituloChano1{position: absolute;
+        text-align: center;
+        margin-left: 45px;
+        color: #ded3d3;
+        margin-top: 70px;
+        font-size: 40px;}
+
+.tituloChano2{position: absolute;
+        text-align: center;
+        margin-left: 110px;
+        color: #ded3d3;
+        margin-top: 130px;
+        font-size: 40px;}
+
+.Bchano{position: absolute;
+        text-align: justify;
+        margin-left: 10px;
+        color: #ffffff;
+        margin-top: -6px;
+        font-size: 17px;}
+
+        
+
+#BoxBambi{background-color: rgb(225, 179, 100);
+        width: 580px;
+        height:600px;
+        position:absolute;
+        top:630px;
+        left: 810px;}
+
+.Bambi{height: 180px;
+        position:relative;
+        margin-left: 20px;
+        margin-top: 20px;}
+
+.tituloBambi1{position: absolute;
+        text-align: center;
+        margin-left: 45px;
+        color: #ded3d3;
+        margin-top: 70px;
+        font-size: 40px;}
+
+.tituloBambi2{position: absolute;
+        text-align: center;
+        margin-left: 120px;
+        color: #ded3d3;
+        margin-top: 130px;
+        font-size: 40px;}
+
+.Bbambi{position: absolute;
+        text-align: justify;
+        margin-left: 10px;
+        color: #ffffff;
+        margin-top: 20px;
+        font-size: 17px;}
+
+#BoxSeby{background-color: rgb(225, 179, 100);
+        width: 580px;
+        height:600px;
+        position:absolute;
+        top: 1250px;
+        left:120px;}
+
+.Seby{height: 180px;
+        position:relative;
+        margin-left: 20px;
+        margin-top: 20px;
+        }
+
+.tituloSeby1{position: absolute;
+        text-align: center;
+        margin-left: 45px;
+        color: #ded3d3;
+        margin-top: 70px;
+        font-size: 40px;}
+
+.tituloSeby2{position: absolute;
+        text-align: center;
+        margin-left: 120px;
+        color: #ded3d3;
+        margin-top: 130px;
+        font-size: 40px;}
+
+.Bseby{position: absolute;
+        text-align: justify;
+        margin-left: 10px;
+        color: #ffffff;
+        margin-top: 20px;
+        font-size: 17px;}
+
+#BoxDiega{background-color:rgb(191, 145, 28);
+        width: 580px;
+        height:600px;
+        position:absolute;
+        top:1250px;
+        left: 810px;}
+
+.Diega{height: 180px;
+        position:relative;
+        margin-left: 20px;
+        margin-top: 20px;}
+
+.tituloDiega1{position: absolute;
+        text-align: center;
+        margin-left: 45px;
+        color: #ded3d3;
+        margin-top: 70px;
+        font-size: 40px;}
+
+.tituloDiega2{position: absolute;
+        text-align: center;
+        margin-left: 130px;
+        color: #ded3d3;
+        margin-top: 130px;
+        font-size: 40px;}
+
+.Bdiega{position: absolute;
+        text-align: justify;
+        margin-left: 10px;
+        color: #ffffff;
+        margin-top: 20px;
+        font-size: 17px;}
+
+        
+#bottomI{background-color:#a8b1b8;
+        position: relative;
+        top: 1850px;
+        height: 100px;}
+
+
+    /*Discografia*/
+
+#PrimerBox{background-color: rgb(239, 113, 113);
+        width: 1270px;
+        height:300px;
+        position:absolute;
+        top:630px;
+        left: 120px;}
+
+.album1{height: 180px;
+        position:relative;
+        margin-left: 20px;
+        margin-top: 60px;}
+
+.Desc1{color: #ffffff;
+        font-size: 18px;
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: -170px;
+        margin-left: 180px;
+        margin-right: 40px;
+        line-height: 20px;}
+
+#CDHWN{position: absolute;
+        margin-top: -150px;
+        margin-left: 215px;}
+
+
+.tituloAl1 { display: block;
+        text-align: center;
+        color: #5e0606;
+        font-size: 30px;
+        margin-top: -70px;
+        margin-left: 160px;
+        }
+
+
+#SegundoBox{background-color: rgb(225, 179, 100);
+                width: 1270px;
+                height:300px;
+                position:absolute;
+                top:950px;
+                left: 120px;}
+
+.album2{height: 180px;
+        position:relative;
+        margin-left: 1105px;
+        margin-top: 60px;}
+
+#Obsesionario{position: absolute;
+        margin-top: -130px;
+        margin-left: 250px;}
+
+
+.tituloAl2{ display: block;
+        text-align: center;
+        color: #60490a;
+        font-size: 30px;
+        margin-top: -90px;
+        margin-left: 290px;
+        }
+
+.Desc2{color: #ffffff;
+        font-size: 18px;
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+        margin: 25px;
+        line-height: 20px;
+        margin-top: -170px;
+        margin-left: 48px;
+        margin-right: 188px;}
+
+#TercerBox{background-color: rgb(152, 203, 233);
+                width: 1270px;
+                height:300px;
+                position:absolute;
+                top: 1270px;
+                left:120px;}
+
+.album3{height: 180px;
+        position:relative;
+        margin-left: 20px;
+        margin-top: 60px;}
+
+#Destinologia{position: absolute;
+        margin-top: -130px;
+        margin-left: 250px;}
+
+
+.tituloAl3{display: block;
+        text-align: center;
+        color: #0f3667;
+        font-size: 30px;
+        margin-top: -90px;
+        margin-left: 300px;
+        }
+
+.Desc3{color: #ffffff;
+        font-size: 18px;
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: -170px;
+        margin-left: 180px;
+        margin-right: 40px;
+        line-height: 20px;}
+
+#CuartoBox{background-color:rgb(239, 113, 113);
+                width: 1270px;
+                height:300px;
+                position:absolute;
+                top:1590px;
+                left: 120px;}
+
+.album4{height: 180px;
+        position:relative;
+        margin-left: 1105px;
+        margin-top: 60px;}
+
+#HolaMundo{position: absolute;
+        margin-top: -130px;
+        margin-left: 250px;}
+
+
+.tituloAl4{ display: block;
+                text-align: center;
+                color: #500606;
+                font-size: 30px;
+                margin-top: -90px;
+                margin-left: 300px;
+        }
+
+.Desc4{color: #dddccf;
+        font-size: 18px;
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+        margin: 25px;
+        line-height: 20px;
+        margin-top: -170px;
+        margin-left: 48px;
+        margin-right: 188px;}
+
+#bottomD{background-color:#a8b1b8;
+        position: relative;
+        top: 1900px;
+        height: 100px;}
+
+        /*Album 1*/
+
+.descAlbum1{position: absolute;
+        width: 1285px;
+        height: 1900px;
+        position:absolute;
+        top:630px;
+        left: 95px;}
+
+#Explicaciones{position: absolute;
+        width: 1285px;
+        height: 280px;
+        top: 2550px;
+        left: 100px;}
+
+h3{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+#ListaCanciones{position: relative;
+        top: 1950px;
+        left: 205px;
+        font-size: 25px;
+        color: #3a0606;}
+
+#ListaCanciones a{color: #ddbfbf;
+text-decoration: underline;}
+
+        /*Album2*/
+
+.descAlbum2{position: absolute;
+        width: 1285px;
+        height: 1900px;
+        position:absolute;
+        top:630px;
+        left: 95px;}
+
+#Explicaciones{position: absolute;
+        width: 1285px;
+        height: 280px;
+        top: 2550px;
+        left: 100px;}
+
+h3{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+#ListaCanciones2{position: relative;
+        top: 1950px;
+        left: 205px;
+        font-size: 25px;
+        color: #f2d988c0;}
+
+#ListaCanciones2 a{color: #dcd2b4;
+text-decoration: underline;}
+
+        /*Album3*/
+
+.descAlbum3{position: absolute;
+        width: 1285px;
+        height: 1900px;
+        position:absolute;
+        top:630px;
+        left: 95px;}
+
+#Explicaciones{position: absolute;
+        width: 1285px;
+        height: 280px;
+        top: 2550px;
+        left: 100px;}
+
+h3{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+#ListaCanciones3{position: relative;
+        top: 1950px;
+        left: 205px;
+        font-size: 25px;
+        color: #3a0606;}
+
+#ListaCanciones3 a{color: #ddbfbf;
+text-decoration: underline;}
+
+        /*Album4*/
+
+.descAlbum4{position: absolute;
+        width: 1285px;
+        height: 1900px;
+        position:absolute;
+        top:630px;
+        left: 95px;}
+
+#Explicaciones{position: absolute;
+        width: 1285px;
+        height: 280px;
+        top: 2550px;
+        left: 100px;}
+
+h3{font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+#ListaCanciones4{position: relative;
+        top: 1950px;
+        left: 205px;
+        font-size: 25px;
+        color: #3a0606;}
+
+#ListaCanciones4 a{color: #ddbfbf;
+text-decoration: underline;}
+
+        /*Conciertos*/
+
+#show1{background-color: rgb(135, 152, 189);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 600px;
+        left:80px;}
+
+.FS1{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+                width: 250px;}
+
+.TS1{position: absolute;
+        margin-top: 230px;
+        margin-left: 85px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS1{position: absolute;
+        margin-top: 290px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+        }
+
+#show2{background-color: rgb(132, 170, 192);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 600px;
+        left:550px;}
+
+.FS2{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+         width: 250px;}
+
+.TS2{position: absolute;
+        margin-top: 230px;
+        margin-left: 75px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS2{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+        
+#show3{background-color: rgb(147, 182, 202);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 600px;
+        left:1020px;}
+
+.FS3{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS3{position: absolute;
+        margin-top: 230px;
+        margin-left: 75px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS3{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show4{background-color:  rgb(147, 182, 202);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 1100px;
+        left:80px;}
+
+.FS4{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS4{position: absolute;
+        margin-top: 230px;
+        margin-left: 120px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS4{position: absolute;
+        margin-top: 290px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show5{background-color: rgb(132, 170, 192);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 1100px;
+        left:550px;}
+
+.FS5{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS5{position: absolute;
+        margin-top: 230px;
+        margin-left: 60px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS5{position: absolute;
+        margin-top: 290px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show6{background-color: rgb(135, 152, 189);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 1100px;
+        left:1020px;}
+
+.FS6{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;} 
+
+.TS6{position: absolute;
+        margin-top: 230px;
+        margin-left: 135px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS6{position: absolute;
+        margin-top: 290px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show7{background-color: rgb(135, 152, 189);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 1600px;
+        left:80px;}
+
+.FS7{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}   
+        
+.TS7{position: absolute;
+        margin-top: 230px;
+        margin-left: 75px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS7{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show8{background-color: rgb(132, 170, 192);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 1600px;
+        left:550px;}
+
+.FS8{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS8{position: absolute;
+        margin-top: 230px;
+        margin-left: 75px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS8{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show9{background-color:  rgb(147, 182, 202);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 1600px;
+        left:1020px;}
+
+.FS9{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS9{position: absolute;
+        margin-top: 230px;
+        margin-left: 75px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS9{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show10{background-color:  rgb(147, 182, 202);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 2100px;
+        left:80px;}
+
+.FS10{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;
+        height: 170px;}
+
+.TS10{position: absolute;
+        margin-top: 230px;
+        margin-left: 75px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS10{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show11{background-color: rgb(132, 170, 192);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 2100px;
+        left:550px;}
+
+.FS11{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS11{position: absolute;
+        margin-top: 230px;
+        margin-left: 125px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS11{position: absolute;
+        margin-top: 290px;
+        margin-left: 112px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show12{background-color: rgb(135, 152, 189);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 2100px;
+        left:1020px;}
+
+.FS12{position: absolute;
+        margin-left: 72px;
+
+        margin-top: 30px;
+        width: 250px;}
+
+.TS12{position: absolute;
+        margin-top: 230px;
+        margin-left: 140px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS12{position: absolute;
+        margin-top: 290px;
+        margin-left: 105px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show13{background-color: rgb(135, 152, 189);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 2600px;
+        left:80px;}
+
+.FS13{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS13{position: absolute;
+        margin-top: 230px;
+        margin-left: 100px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS13{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show14{background-color: rgb(132, 170, 192);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 2600px;
+        left:550px;}
+
+.FS14{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS14{position: absolute;
+        margin-top: 230px;
+        margin-left: 125px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS14{position: absolute;
+        margin-top: 290px;
+        margin-left: 108px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show15{background-color:  rgb(147, 182, 202);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 2600px;
+        left:1020px;}
+
+.FS15{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS15{position: absolute;
+        margin-top: 230px;
+        margin-left: 125px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS15{position: absolute;
+        margin-top: 290px;
+        margin-left: 108px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show16{background-color:  rgb(147, 182, 202);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 3100px;
+        left:80px;}
+
+.FS16{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS16{position: absolute;
+        margin-top: 230px;
+        margin-left: 90px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS16{position: absolute;
+        margin-top: 290px;
+        margin-left: 105px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show17{background-color: rgb(132, 170, 192);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 3100px;
+        left:550px;}
+
+.FS17{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS17{position: absolute;
+        margin-top: 230px;
+        margin-left: 135px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS17{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show18{background-color: rgb(135, 152, 189);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 3100px;
+        left:1020px;}
+
+.FS18{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS18{position: absolute;
+        margin-top: 230px;
+        margin-left: 130px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS18{position: absolute;
+        margin-top: 290px;
+        margin-left: 110px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show19{background-color: rgb(135, 152, 189);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 3600px;
+        left:80px;}
+
+.FS19{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS19{position: absolute;
+        margin-top: 230px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS19{position: absolute;
+        margin-top: 290px;
+        margin-left: 114px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show20{background-color: rgb(132, 170, 192);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 3600px;
+        left:550px;}
+
+.FS20{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS20{position: absolute;
+        margin-top: 230px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS20{position: absolute;
+        margin-top: 290px;
+        margin-left: 114px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+#show21{background-color:  rgb(147, 182, 202);
+        width: 400px;
+        height:450px;
+        position:absolute;
+        top: 3600px;
+        left:1020px;}
+
+ .FS21{position: absolute;
+        margin-left: 72px;
+        margin-top: 30px;
+        width: 250px;}
+
+.TS21{position: absolute;
+        margin-top: 230px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;}
+
+.HS21{position: absolute;
+        margin-top: 290px;
+        margin-left: 114px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;}
+
+.Passline{position: absolute;
+        margin-top: 350px;
+        margin-left: 95px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+        text-decoration: underline;}
+
+#bottomC{background-color:#a8b1b8;
+        position: relative;
+        top: 4050px;
+        height: 100px;}
+                        
+        /*Premios*/
+
+#Tabla{background-color: rgb(95, 128, 139);
+        position: relative;
+        top:750px;
+        left: 345px;
+        margin-bottom: 20px;
+        width: 820px;}
+
+.ganador{background-color: rgba(68, 255, 0, 0.43);
+        font-weight: bold;}
+
+.nominado{background-color: rgba(223,4,4,0.43);}
+
+
+
+.TituloTabla{position: relative;
+        left: 195px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;}
+
+#Parrafo1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        position: absolute;
+        width: 820px;
+        height: 280px;
+        top: 580px;
+        left: 345px;}
+
+#Parrafo2{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        position: absolute;
+        width: 820px;
+        height: 280px;
+        top: 1370px;
+        left: 345px;}
+
+#bottomP{background-color:#a8b1b8;
+        position: relative;
+        top: 820px;
+        height: 100px;}
+
+hr {position: relative;
+        top: 3150px;
+        border-top: 2px solid #000;
+        border-bottom: 2px #35353a;     
+        }
+
+footer{position: absolute;
+        top: 3200px;
+        left: 590px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        }
+
+#IG{position: relative ;
+   top: 3180px;
+left: 470px;}
+
+#sp{position: relative ;
+        top: 3125px;
+     left: 525px;}
+
+#tw{position: relative ;
+        top: 2995px;
+     left: 980px;}
+
+#yt{position: relative ;
+        top: 3060px;
+     left: 910px;}
